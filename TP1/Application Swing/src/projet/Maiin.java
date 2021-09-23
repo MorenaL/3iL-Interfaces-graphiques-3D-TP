@@ -19,7 +19,7 @@ public class Maiin {
 
     //Attributes
     private JFrame frame; // La fenêtre
-    //private JMenuBar menuBar; // Menu en haut horizontal
+    private JMenuBar menuBar; // Menu en haut horizontal
     private JMenuItem close, help;
 
     //Constructor
