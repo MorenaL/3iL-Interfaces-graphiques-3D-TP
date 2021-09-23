@@ -33,7 +33,7 @@ public class Maiin {
         frame.setLocationRelativeTo(null);
         frame.setVisible(true);
     }
-
+ 
     private void createView() {
         frame = new JFrame("Application_Morena");
         frame.setPreferredSize(new Dimension(FRAME_WIDTH, FRAME_HEIGHT));
